@@ -13,14 +13,14 @@ const steps = [
     number: "2",
     icon: Wallet,
     title: "Fund Your Wallet",
-    description: "Deposit your local Currency or USD (from abroad) into your Zamani wallet.",
+    description: "Deposit funds into your Zamani account.",
   },
   {
     number: "3",
     icon: ArrowRight,
     title: "Earn Yield Automatically",
 
-    description: "Your balance starts earning yield rewards ",
+    description: "Signup for Yield options ",
 
   },
   {
