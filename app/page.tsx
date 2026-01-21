@@ -3,7 +3,7 @@ import HeroSection from "@/components/landing/hero-section"
 import FeaturesSection from "@/components/landing/features-section"
 import HowItWorksSection from "@/components/landing/how-it-works-section"
 import SecuritySection from "@/components/landing/security-section"
-import TestimonialsSection from "@/components/landing/testimonials-section"
+// import TestimonialsSection from "@/components/landing/testimonials-section"
 import FooterSection from "@/components/landing/footer-section"
 import WaitlistModal from "@/components/landing/waitlist-modal"
 
@@ -20,7 +20,7 @@ export default function Page() {
       <FeaturesSection />
       <HowItWorksSection />
       <SecuritySection />
-      <TestimonialsSection />
+      {/* <TestimonialsSection /> */}
       <FooterSection />
       <WaitlistModal />
     </div>
