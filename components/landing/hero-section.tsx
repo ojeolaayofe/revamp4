@@ -60,7 +60,7 @@ Deposit Naira in Nigeria or USD from abroad, earn competitive yield, withdraw re
             onClick={handleOpenWaitlist}
             className="bg-primary text-primary-foreground hover:bg-primary/90 text-lg px-8 transition-all duration-300 transform hover:scale-105 hover:shadow-lg"
           >
-            Get Early Access \ <ArrowRight className="ml-2" size={20} />
+            Get Early Access <ArrowRight className="ml-2" size={20} />
           </Button>
           <Button
             size="lg"
