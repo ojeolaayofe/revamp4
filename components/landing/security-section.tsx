@@ -46,10 +46,10 @@ export default function SecuritySection() {
           })}
         </div>
 
-        <div className="mt-12 bg-primary/5 border border-primary/20 rounded-xl p-8 text-center">
+        {/* <div className="mt-12 bg-primary/5 border border-primary/20 rounded-xl p-8 text-center">
           <p className="text-muted-foreground mb-2">Trusted by thousands of users</p>
           <p className="text-2xl font-bold text-foreground">₦ Billions moved securely through ZamaniPay</p>
-        </div>
+        </div> */}
       </div>
     </section>
   )
