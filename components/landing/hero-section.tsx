@@ -28,7 +28,7 @@ export default function HeroSection() {
           Move Money Across Borders – <span className="text-primary animate-glow">Fast, Simple & Secure</span>
         </h1> */}
         <h1
-          className="text-5xl sm:text-6xl font-bold text-foreground text-balance leading-tight animate-fade-in-up"
+          className="text-2xl sm:text-6xl font-bold text-foreground text-balance leading-tight animate-fade-in-up"
           style={{ animationDelay: "0.1s" }}
         >
           Access Nigerian & Global Stocks and Bonds — From Anywhere. <span className="text-primary animate-glow">Fast, Simple & Secure</span>
