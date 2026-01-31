@@ -31,7 +31,7 @@ export default function HeroSection() {
           className="text-2xl sm:text-6xl font-bold text-foreground text-balance leading-tight animate-fade-in-up"
           style={{ animationDelay: "0.1s" }}
         >
-          Access Nigerian & Global Stocks and Bonds<span className="text-primary animate-glow">Fast, Simple & Secure</span>
+          Access Nigerian & Global Stocks and Bonds<span className="text-primary animate-glow"><br></br>Fast, Simple & Secure</span>
         </h1>
 
         {/* <p
